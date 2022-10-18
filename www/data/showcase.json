@@ -96,5 +96,11 @@
     "link": "https://fresh-hacker-news.deno.dev/",
     "github": "morinokami/fresh-hacker",
     "image": "hn"
+  },
+  {
+    "title": "Portfolio page",
+    "link": "https://angganurprasetya.dev",
+    "github": "prasetyanurangga/my_portfolio",
+    "image": ""
   }
 ]
